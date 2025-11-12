@@ -1,0 +1,26 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "this is a basic react app",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhiram18b/react.git"
+  },
+  "keywords": [],
+  "author": "abhiram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhiram18b/react/issues"
+  },
+  "homepage": "https://github.com/abhiram18b/react#readme",
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
