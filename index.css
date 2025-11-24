@@ -26,6 +26,11 @@
     flex-wrap: wrap;
     /* justify-content: center; */
 }
+
+.res-card-link{
+    color: black;
+    text-decoration: none;
+}
 .res-card{
     width: 200px;
     margin: 5px;
@@ -61,4 +66,12 @@
     display: flex;
     gap:15px;
     margin:5px
+}
+
+.item-list{
+    list-style-type: none;
+}
+
+.item-name{
+    margin-bottom: 5px;
 }
